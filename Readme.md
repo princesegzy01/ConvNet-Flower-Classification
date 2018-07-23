@@ -8,7 +8,7 @@ Clone the project by ruuning the below code from the terminal
 
 this will clone the source code and datasets into a folder for the next stage
 
-###2. Installing the packages needed
+### 2. Installing the packages needed
 In order for you to not have issues installing all the packages with its version needed, All the required packages are inside the requirement.txt and you can bult install them with a single command.
 
 `pip3 install -r requirement.txt`
