@@ -185,9 +185,6 @@ print("Train generator indices : ", train_generator.class_indices)
 classifier.save("model.h5")
 
 
-print("done")
-sys.exit(0)
-#
 from keras.preprocessing import image
 import numpy as np
 
